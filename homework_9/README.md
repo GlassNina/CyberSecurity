@@ -11,4 +11,9 @@ Spam, Fishing, Social Engineering
 
 Выбрала создать копию логина facebook.com и письмо с адреса support@facebook.com  
 
+![SET_01](SET_01.jpg)
+![SET_02](SET_02.jpg)
+![SET_03](SET_03.jpg)
+![SET_04](SET_04.jpg)
+![SET_05](SET_05.jpg)
 
