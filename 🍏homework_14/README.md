@@ -24,8 +24,8 @@
 И вот мой скрипт, создавала не в редакторе а сразу в консоли через cat и EOF:  
 ![6](Homework_14-06.jpg)  
  
-3. Очистить все правила iptables, установить UFW firewall
-![7](Homework_14-07.jpg)  
-![8](Homework_14-08.jpg)
-![9](Homework_14-09.jpg) 
+3. Очистить все правила iptables, установить UFW firewall  
+![7](Homework_14-07.jpg)    
+![8](Homework_14-08.jpg)  
+![9](Homework_14-09.jpg)   
  
