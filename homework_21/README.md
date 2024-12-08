@@ -15,7 +15,7 @@
    - [PCI DSS](https://www.pcisecuritystandards.org/)  
 
 ### Резервные копии:  
-Бэкап всех выполненных домашек сделан и сохранен в `backup/homework_backup.tar.gz`.  
+Бэкап всех выполненных домашек сделан и сохранен в `backup/homework_backup.tar.gz`  
 
 #### Команда для создания бэкапа:
 ```bash
