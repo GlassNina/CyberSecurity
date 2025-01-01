@@ -42,7 +42,7 @@
   4. Выполнен вход в панель управления Splunk Cloud.
 
 ### Скриншоты:
-1. Письмо с подтверждением:
-   ![Email Confirmation](01_email_confirmation.jpg)
-2. Панель управления Splunk Cloud:
-   ![Splunk Dashboard](02_splunk_dashboard.jpg)
+1. Письмо с подтверждением:  
+   ![Email Confirmation](01_email_confirmation.jpg)  
+2. Панель управления Splunk Cloud:  
+   ![Splunk Dashboard](02_splunk_dashboard.jpg)  
