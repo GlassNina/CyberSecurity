@@ -41,3 +41,8 @@
   Подтверждена регистрация через email.  
   ![Email Confirmation](01_Registration_Email.jpg)  
   Выполнен вход в панель управления Splunk Cloud.  
+- Настроена виртуальная машина с **Windows Server 2022** (IP: 5.45.87.76).  
+- Установлен Splunk Universal Forwarder.  
+- Настроено подключение к Splunk Cloud.  
+- Настроены источники логов:  
+  Windows Event Logs (System, Security, Application).  
