@@ -33,11 +33,11 @@
 
 ## Ход выполнения:
 
-- Создана структура проекта.
-- Выбрана SIEM система — **Cloud Splunk**.
-- Пройдена регистрация в Splunk Cloud:
-  Переход на [Splunk Cloud](https://www.splunk.com/en_us/cloud.html).
-  Заполнена форма регистрации.
-  Подтверждена регистрация через email.
-  ![Email Confirmation](01_email_confirmation.jpg)
-  Выполнен вход в панель управления Splunk Cloud.
+- Создана структура проекта.  
+- Выбрана SIEM система — **Cloud Splunk**.   
+- Пройдена регистрация в Splunk Cloud:  
+  Переход на [Splunk Cloud](https://www.splunk.com/en_us/cloud.html).  
+  Заполнена форма регистрации.  
+  Подтверждена регистрация через email.  
+  ![Email Confirmation](01_email_confirmation.jpg)  
+  Выполнен вход в панель управления Splunk Cloud.  
