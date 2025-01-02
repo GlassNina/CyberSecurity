@@ -36,13 +36,8 @@
 - Создана структура проекта.
 - Выбрана SIEM система — **Cloud Splunk**.
 - Пройдена регистрация в Splunk Cloud:
-  1. Переход на [Splunk Cloud](https://www.splunk.com/en_us/cloud.html).
-  2. Заполнена форма регистрации.
-  3. Подтверждена регистрация через email.
-  4. Выполнен вход в панель управления Splunk Cloud.
-
-### Скриншоты:
-1. Письмо с подтверждением:  
-   ![Email Confirmation](01_email_confirmation.jpg)  
-2. Панель управления Splunk Cloud:  
-   ![Splunk Dashboard](02_splunk_dashboard.jpg)  
+  Переход на [Splunk Cloud](https://www.splunk.com/en_us/cloud.html).
+  Заполнена форма регистрации.
+  Подтверждена регистрация через email.
+  ![Email Confirmation](01_email_confirmation.jpg)
+  Выполнен вход в панель управления Splunk Cloud.
