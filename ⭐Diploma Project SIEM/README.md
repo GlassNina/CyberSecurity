@@ -39,5 +39,5 @@
   Переход на [Splunk Cloud](https://www.splunk.com/en_us/cloud.html).  
   Заполнена форма регистрации.  
   Подтверждена регистрация через email.  
-  ![Email Confirmation](01_email_confirmation.jpg)  
+  ![Email Confirmation](01_Registration_Email.jpg)  
   Выполнен вход в панель управления Splunk Cloud.  
